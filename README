@@ -1,0 +1,4 @@
+export PATH=$PATH:/Users/cougaro/Downloads/gcc-arm-none-eabi-4_9-2015q3/bin:/Users/cougaro/Downloads/MediaTek_LinkIt_SDK_for_Arduino_Mac_1_1_17/hardware/mtk/variants/linkit_one
+make clean
+make 
+make install PORT=/dev/cu.usbmodemFA133
